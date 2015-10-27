@@ -1,0 +1,5 @@
+.centered {text-align: center !important; margin: 0 auto;}
+body {padding: 50px;}
+.inline {display: inline !important;}
+img.table {height:70px; width:auto;}
+img.reg {height:350px; width:auto;}
